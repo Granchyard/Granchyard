@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Yurii Mazalov
 
-<!--
-**Granchyard/Granchyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring frontend developer based in Essen, Germany.  
+🌱 Passionate about creating interactive and visually engaging user interfaces.  
+📚 Currently seeking an **Ausbildung as Fachinformatiker für Anwendungsentwicklung**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages & Tools:** HTML, CSS, Sass/SCSS, BEM, Bootstrap, JavaScript  
+- **Version Control:** Git, GitHub  
+- **Design:** Figma, Adobe Photoshop  
+- **Tools:** VSCode
+
+---
+
+## 🚀 About Me
+
+I enjoy building personal and learning projects that help me strengthen my frontend skills and deepen my understanding of UI/UX development.  
+My focus is on writing clean, scalable, and maintainable code and building intuitive, user-friendly interfaces.
+
+---
+
+## 📂 Featured Project
+
+- 🎮 [Dayflow](https://github.com/Granchyard/Dayflow) – a frontend mini-project demonstrating UI logic, animations, and interaction
+
+---
+
+## 📫 Contact
+
+- 📧 Email: yurii.mazalov@gmail.com  
+- 🌐 GitHub: [github.com/Granchyard](https://github.com/Granchyard)
+
+---
+
+**Languages:** 🇩🇪 German (B2), 🇬🇧 English (B2), 🇷🇺 Russian (native), 🇺🇦 Ukrainian (native)
