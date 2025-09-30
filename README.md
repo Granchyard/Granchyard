@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yurii Mazalov
 
-💻 Aspiring frontend developer based in Essen, Germany.  
+💻 Aspiring software developer based in Essen, Germany.  
 🌱 Passionate about creating interactive and visually engaging user interfaces.  
 📚 Currently seeking an **Ausbildung as Fachinformatiker für Anwendungsentwicklung**.
 
@@ -17,8 +17,8 @@
 
 ## 🚀 About Me
 
-I enjoy building personal and learning projects that help me strengthen my frontend skills and deepen my understanding of UI/UX development.  
-My focus is on writing clean, scalable, and maintainable code and building intuitive, user-friendly interfaces.
+I enjoy building personal and learning projects that help me strengthen my software development skills and deepen my understanding of application design and user experience.
+My focus is on writing clean, scalable, and maintainable code and creating intuitive, user-centered solutions.
 
 ---
 
